@@ -1,3 +1,5 @@
+https://weather-global-vue3.netlify.app
+
 # weather-global-vue
 
 ## Project setup
